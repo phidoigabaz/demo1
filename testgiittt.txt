@@ -1,0 +1,2 @@
+// luy them dong 1
+gia tri a-=1
