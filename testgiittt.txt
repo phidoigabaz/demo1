@@ -4,3 +4,5 @@ gia tri a-=1
 gia tri a=2
 //a quan them
 giao
+// quang them
+dasdasdasdasd
