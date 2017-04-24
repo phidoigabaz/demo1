@@ -1,2 +1,4 @@
 // luy them dong 1
 gia tri a-=1
+//dat them dong 2
+gia tri a=2
