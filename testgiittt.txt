@@ -10,3 +10,5 @@ dasdasdasdasd
 ta la ma
 // thien them 1
 ma la ta
+// thien them 2
+gia tri la bang 2
