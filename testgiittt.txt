@@ -12,3 +12,5 @@ ta la ma
 ma la ta
 // thien them 2
 gia tri la bang 2
+//bnh
+cmd
